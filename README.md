@@ -10,11 +10,12 @@ Shin Junyeong, Kim Juhyeong, Jang Jun, Kim Gaeun, Oh Chaeyoung
 | Task | Status | Specification |
 | ------ | ----- |----------- |
 | Plan | ☑️ | Setting objective, schedule |
-| Propose | ☑️ | Proposal presentation |
+| Proposal | ☑️ | Proposal trailer video uploaded on Youtube, proposal presentation |
 | Implement |  | Data curation, modeling, UI app development |
 | Testing |  | Debugging, testing and modifying |
 | Release |  | Release & update due to user requirements |
 | Presentaion |  | Final presentation |
+
 
 
 # Motivation and Objective
