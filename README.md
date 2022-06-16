@@ -24,7 +24,7 @@ Music plays a large role in human psychology and behavior, and espeically nowday
 As the importance setting appropriate background music emerges, our team conducted "appropriate music recommendation service" as 
 undergraduate thesis project for both commerical and entertaining usage. 
 
-The name of project "Tune Your Area" is meant as our object which is to provide music recommendation utility for 
+The name of project "Tune Your Area" represents our objective which is to provide music recommendation utility for 
 'area of industries where background music is actively used'.
 Also the role of our service is done by recommending perfect-fit background music for client's 'area'
 
